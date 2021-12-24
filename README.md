@@ -4,5 +4,5 @@ Pagina Demonstrativa
 ## Icones
 :package: Novas Funcionalidade
 :up: Atualização
-:beatle: Correção de BUG
+:beetle: Correção de BUG
 :checkered_flag: realease
